@@ -6,9 +6,8 @@ demo:
 
 # Demostración 01: Configuración de una máquina virtual Linux de Azure.
 
-## Tareas de credenciales
+## Aptitudes de trabajo
 
-Usa la demostración para revisar estas tareas de credenciales:
 + Creación de una máquina virtual Linux (portal).
 + Configuración de una VM Linux.
 + Conexión a una VM LInux con SSH.  
