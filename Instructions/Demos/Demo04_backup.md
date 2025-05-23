@@ -6,7 +6,7 @@ demo:
 
 # Demostración 04: Copia de seguridad de máquinas virtuales Linux de Azure
 
-## Tarea de credenciales
+## Aptitud del trabajo
 
 + Configurar Azure Backup 
 
@@ -48,4 +48,4 @@ Usa estas diapositivas para proporcionar más contexto.
 
 1. Revisa cómo supervisar trabajos de copia de seguridad.
 
-1. Revisa cómo puedes restaurar máquinas virtuales (no en la credencial). 
+1. Revisa cómo puedes restaurar máquinas virtuales. 

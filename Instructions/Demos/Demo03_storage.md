@@ -6,7 +6,7 @@ demo:
 
 # Demostración 03: Acceso al almacenamiento para una máquina virtual Linux de Azure
 
-## Tareas de credenciales
+## Aptitudes de trabajo
 
 + Creación de una máquina virtual (CLI).
 + Agrega discos de datos de la máquina virtual y configura particiones. 

@@ -6,7 +6,7 @@ demo:
 
 # Demostración 02: Supervisión de una máquina virtual Linux de Azure
 
-## Tareas de credenciales
+## Aptitudes de trabajo
 
 + Creación de una máquina virtual (plantilla de inicio rápido).
 + Configure VM Insights.
